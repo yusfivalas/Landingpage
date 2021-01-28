@@ -35,7 +35,7 @@ header{
 	position: fixed;
 	top: 0;
 	min-height: 50px;
-	padding: 0 160px;
+	padding: 20px 160px;
 	display: flex;
 	justify-content: space-around;
 	align-items: center;
@@ -53,6 +53,10 @@ header{
 	justify-content: center;
 	align-items: center;
 	text-align: center;
+}
+.logo-text{
+	font-family: 'Lobster', cursive;
+	color: #54a383;
 }
 nav{
 	font-weight: 400;
